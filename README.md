@@ -7,16 +7,18 @@
 3. [VSCode IDE](https://code.visualstudio.com/)
 4. [GitCLI](https://git-scm.com/download/linux)
 
-### Create a new environment for the project
+Create a new environment for the project
+---
+conda create -p venv python==3.7 -y
+---
 
-* conda create -p venv python==3.7 -y
+Activating the environment
+---
+conda activate venv/
+---
 
 
-### Activating the environment
-
-* conda activate venv/
-
-
-### Creating a requirements.txt file
-
-* pip install -r requirements.txt
+Creating a requirements.txt file
+---
+pip install -r requirements.txt
+---
