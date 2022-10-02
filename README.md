@@ -1,4 +1,4 @@
-### Boston House Pricing
+### `Boston House Pricing`
 
 `Project aim`: The aim of the project includes the following:
 1. Training a house price prediction `Regression model`
@@ -19,7 +19,7 @@
 4. [GitCLI](https://git-scm.com/download/linux)
 
 
-### Steps involved in the project:
+### `Steps involved in the project`:
 1. Create a new environment for the project
 
 ```conda create -p venv python==3.7 -y```
